@@ -1,4 +1,4 @@
-# dentist
+# Health app
 
 ## Project setup
 ```
